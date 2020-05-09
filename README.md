@@ -18,7 +18,7 @@ Current supported features:
 Run with 
 
 ```
-go-trace-json <inputfile>
+go-trace-json --input-file <inputfile>
 ```
 
 Optional flags:
