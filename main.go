@@ -53,7 +53,6 @@ func main() {
 	for k, v := range gss {
 		v.ID = k
 		glist = append(glist, v)
-		fmt.Printf("%s [%d]\n", v.Name, v.N)
 	}
 
 	jsonData := &jsonOutput{
