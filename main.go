@@ -19,7 +19,7 @@ type gtype struct {
 }
 
 type jsonOutput struct {
-	Goroutines []gtype `json:"groroutines"`
+	Goroutines []gtype `json:"goroutines"`
 }
 
 func main() {
