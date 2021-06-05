@@ -1,7 +1,7 @@
 package main
 
 import (
-	"./trace"
+	"github.com/UoB-CSA/go-trace-json/trace"
 	"bufio"
 	"encoding/json"
 	"flag"
